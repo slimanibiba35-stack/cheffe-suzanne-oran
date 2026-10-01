@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/[locale]/journal/page": "app/[locale]/journal/page.js",
+  "/[locale]/coffrets/page": "app/[locale]/coffrets/page.js",
+  "/[locale]/livraison/page": "app/[locale]/livraison/page.js",
+  "/[locale]/produits/braj/page": "app/[locale]/produits/braj/page.js",
+  "/[locale]/produits/chlita/page": "app/[locale]/produits/chlita/page.js",
+  "/[locale]/produits/biscuits/page": "app/[locale]/produits/biscuits/page.js",
+  "/[locale]/mentions-legales/page": "app/[locale]/mentions-legales/page.js",
+  "/[locale]/boutique/page": "app/[locale]/boutique/page.js",
+  "/[locale]/produits/torchi/page": "app/[locale]/produits/torchi/page.js",
+  "/[locale]/notre-histoire/page": "app/[locale]/notre-histoire/page.js",
+  "/[locale]/produits/[slug]/page": "app/[locale]/produits/[slug]/page.js",
+  "/[locale]/questions-frequentes/page": "app/[locale]/questions-frequentes/page.js",
+  "/[locale]/produits/page": "app/[locale]/produits/page.js",
+  "/[locale]/contact/page": "app/[locale]/contact/page.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/[locale]/produits/confitures/page": "app/[locale]/produits/confitures/page.js"
+}

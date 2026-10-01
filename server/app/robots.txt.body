@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /panier
+Disallow: /en/cart
+Disallow: /ar/cart
+Disallow: /api/*
+
+Sitemap: https://cheffesuzanne.com/sitemap.xml
